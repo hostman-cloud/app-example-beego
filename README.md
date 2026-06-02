@@ -8,7 +8,7 @@ An example [Beego](https://github.com/beego/beego) application that can be deplo
 
 :rocket: [Create your App](https://hostman.cloud/my/apps/create)
 
-:books: [Hostman Cloud Apps Documentation](https://hostman.cloud/docs/apps)
+:books: [Hostman Cloud Apps Documentation](https://hostman.com/docs/app-platform/)
 
 ## <a name="dev"></a>Running the project locally
 
