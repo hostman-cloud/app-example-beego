@@ -4,7 +4,7 @@
 
 An example [Beego](https://github.com/beego/beego) application that can be deployed to **Hostman Cloud Apps** with no configuration.
 
-:tada: [Demo]()
+:tada: [Demo](https://hostman-cloud-app-example-beego-e717.hostman.dev/)
 
 :rocket: [Create your App](https://hostman.cloud/my/apps/create)
 
